@@ -1,4 +1,0 @@
-flyCbird
-========
-
-quadcopter
